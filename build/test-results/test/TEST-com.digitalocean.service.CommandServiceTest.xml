@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.digitalocean.service.CommandServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-07-20T22:30:32" hostname="PASWL-C030876" time="0.194">
+  <properties/>
+  <testcase name="indexPackage()" classname="com.digitalocean.service.CommandServiceTest" time="0.176"/>
+  <testcase name="removePackage()" classname="com.digitalocean.service.CommandServiceTest" time="0.01"/>
+  <testcase name="queryPackage()" classname="com.digitalocean.service.CommandServiceTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService removePackage
+INFO: Removing package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService anyRemainingDependencies
+INFO: Checking for dependent packages before removal.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService removePackage
+INFO: Package exists and no remaining dependencies starting removal!
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+Jul 20, 2020 6:30:33 PM com.digitalocean.service.CommandService queryPackage
+INFO: Querying package
+]]></system-err>
+</testsuite>

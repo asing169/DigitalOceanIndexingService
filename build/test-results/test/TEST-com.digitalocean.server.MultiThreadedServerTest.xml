@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.digitalocean.server.MultiThreadedServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-20T22:30:32" hostname="PASWL-C030876" time="0.052">
+  <properties/>
+  <testcase name="run()" classname="com.digitalocean.server.MultiThreadedServerTest" time="0.052"/>
+  <system-out><![CDATA[Connection opened!
+Just connected to /127.0.0.1:53809
+Connection opened!
+Just connected to /127.0.0.1:53810
+Connection opened!
+Just connected to /127.0.0.1:53811
+Connection opened!
+Just connected to /127.0.0.1:53812
+Connection opened!
+Just connected to /127.0.0.1:53813
+Connection opened!
+Just connected to /127.0.0.1:53814
+Connection opened!
+Just connected to /127.0.0.1:53815
+Connection opened!
+Just connected to /127.0.0.1:53816
+Connection opened!
+Just connected to /127.0.0.1:53817
+Connection opened!
+Just connected to /127.0.0.1:53818
+Server Stopped.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

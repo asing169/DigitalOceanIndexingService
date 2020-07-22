@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9abfeec4-b68f-4ab2-b05a-6dbeff39ed37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PackageIndexer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Commands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/server/MultiThreadedServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/server/WorkerRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/CommandInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/CommandService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/ProcessService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/ProcessService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/utilities/ParseUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/models/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/models/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/models/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/models/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/service/CommandInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/service/ProcessService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/digitalocean/utilities/ParseUtil.java" afterDir="false" />
+    <list default="true" id="a7399911-a007-4aa2-80eb-15821ae148c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PackageIndexer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Commands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/models/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/server/MultiThreadedServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/server/WorkerRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/CommandInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/CommandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/ProcessService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/service/ProcessService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PackageIndexer/com/digitalocean/utilities/ParseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/models/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/models/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/models/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/models/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/service/CommandInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/service/ProcessService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/digitalocean/utilities/ParseUtil.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/index/.gradle/" />
+    <ignored path="$PROJECT_DIR$/index/build/" />
+    <ignored path="$PROJECT_DIR$/index/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,73 +49,70 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PackageIndexer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PackageIndexer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PackageIndexer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="PackageIndexer" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/digitalocean/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/service/CommandService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+            <state relative-caret-position="210">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/service/ProcessService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-259">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/digitalocean/utilities/ParseUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/digitalocean/service/ProcessService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="231">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -120,17 +122,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>throw</find>
-      <find>stop</find>
-      <find>error</find>
+      <find>sourcesets</find>
+      <find>initmock</find>
+      <find>ri</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,101 +139,206 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/models/Command.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/utilities/CommandParser.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/models/Commands.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/service/IndexService.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/service/CommandInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/models/Input.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/server/ServerConnection.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/models/Response.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/models/Status.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/service/ProcessService.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/utilities/ParseUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java" />
+        <option value="$PROJECT_DIR$/src/test/com/digitalocean/service/ProcessServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/digitalocean/util/ParserUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/digitalocean/util/ParserUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/digitalocean/service/ProcessServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/digitalocean/service/CommandServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalocean/server/WorkerRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalocean/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalocean/server/MultiThreadedServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/digitalocean/server/MultiThreadedServerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/digitalocean/server/WorkerRunnableTest.java" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalocean/service/CommandService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalocean/service/ProcessService.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-1088" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PackageIndexer" type="462c0819:PsiDirectoryNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PackageIndexer" type="462c0819:PsiDirectoryNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PackageIndexer" type="462c0819:PsiDirectoryNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="digitalocean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PackageIndexer" type="462c0819:PsiDirectoryNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PackageIndexer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PackageIndexer" type="462c0819:PsiDirectoryNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PackageIndexer" type="462c0819:PsiDirectoryNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PackageIndexer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PackageIndexer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="PackageIndexer" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="PackageIndexer" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="PackageIndexer" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="PackageIndexer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="PackageIndexer" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="C:\Users\asingh173\workspace\PackageIndexer" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.digitalocean.server" />
+      <recent name="com.digitalocean.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,20 +352,104 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.digitalocean.Main" />
-      <module name="PackageIndexer" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <module name="PackageIndexer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalocean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PackageIndexer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PackageIndexer [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="WorkerRunnableTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PackageIndexer.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalocean.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.digitalocean.server" />
+      <option name="MAIN_CLASS_NAME" value="com.digitalocean.server.WorkerRunnableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerRunnableTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PackageIndexer.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.digitalocean.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.digitalocean.server" />
+      <option name="MAIN_CLASS_NAME" value="com.digitalocean.server.WorkerRunnableTest" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.WorkerRunnableTest (1)" />
+        <item itemvalue="JUnit.WorkerRunnableTest.run" />
+        <item itemvalue="Gradle.PackageIndexer [build]" />
+        <item itemvalue="Gradle.PackageIndexer [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -269,71 +458,80 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9abfeec4-b68f-4ab2-b05a-6dbeff39ed37" name="Default Changelist" comment="" />
-      <created>1593129439388</created>
+      <changelist id="a7399911-a007-4aa2-80eb-15821ae148c9" name="Default Changelist" comment="" />
+      <created>1594904629083</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593129439388</updated>
-      <workItem from="1593129444017" duration="104274000" />
-      <workItem from="1594062675687" duration="1193000" />
-      <workItem from="1594065822398" duration="56086000" />
-      <workItem from="1594355548837" duration="18302000" />
+      <updated>1594904629083</updated>
+      <workItem from="1594904631657" duration="6817000" />
+      <workItem from="1594955005460" duration="39394000" />
+      <workItem from="1595262933048" duration="11982000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="WorkerRunnableTest_run - 2020.07.20 at 17h 49m 34s.xml">
+      <configuration name="WorkerRunnableTest.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkerRunnableTest - 2020.07.20 at 18h 24m 27s.xml">
+      <configuration name="WorkerRunnableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiThreadedServerTest - 2020.07.20 at 18h 24m 49s.xml">
+      <configuration name="MultiThreadedServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiThreadedServerTest_run - 2020.07.20 at 18h 25m 41s.xml">
+      <configuration name="MultiThreadedServerTest.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiThreadedServerTest - 2020.07.20 at 18h 26m 24s.xml">
+      <configuration name="MultiThreadedServerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkerRunnableTest - 2020.07.20 at 18h 26m 53s.xml">
+      <configuration name="WorkerRunnableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkerRunnableTest_run - 2020.07.20 at 19h 50m 44s.xml">
+      <configuration name="WorkerRunnableTest.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkerRunnableTest_run - 2020.07.20 at 19h 56m 05s.xml">
+      <configuration name="WorkerRunnableTest.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkerRunnableTest_run - 2020.07.20 at 19h 57m 42s.xml">
+      <configuration name="WorkerRunnableTest.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkerRunnableTest_(1) - 2020.07.20 at 19h 58m 50s.xml">
+      <configuration name="WorkerRunnableTest (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179855000" />
+    <option name="totallyTimeSpent" value="58193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49027237" weight="0.18095239" />
-      <window_info id="Structure" order="1" sideWeight="0.5097276" side_tool="true" weight="0.18095239" />
-      <window_info id="aws.explorer" order="2" side_tool="true" weight="0.32936507" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.5019157" side_tool="true" weight="0.24920128" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.4549763" visible="true" weight="0.39747995" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49285713" weight="0.6361868" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.5450237" side_tool="true" visible="true" weight="0.39747995" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" show_stripe_button="false" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" weight="0.18095239" />
-      <window_info id="Structure" order="1" sideWeight="0.5035294" side_tool="true" weight="0.18095239" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49458483" visible="true" weight="0.21953188" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="aws.explorer" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.5019157" side_tool="true" weight="0.24920128" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4623486" visible="true" weight="0.62657505" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4984127" weight="0.51167315" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.5376514" side_tool="true" visible="true" weight="0.62657505" />
+      <window_info id="Favorites" order="4" sideWeight="0.50541514" side_tool="true" weight="0.3155771" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36381322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4788087" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.44163424" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.19358534" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24986537" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" show_stripe_button="false" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-    </layout-to-restore>
+      <window_info anchor="right" id="Gradle" order="3" weight="0.49878934" />
+      <window_info anchor="right" id="Maven" order="4" show_stripe_button="false" weight="0.32956383" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -341,92 +539,50 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java</url>
-          <line>28</line>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/digitalocean/service/ProcessServiceTest.java</url>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java</url>
-          <line>44</line>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/digitalocean/service/CommandServiceTest.java</url>
+          <line>49</line>
           <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/service/ProcessService.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java</url>
-          <line>92</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java</url>
-          <line>62</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="25" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java</url>
-          <line>47</line>
+          <url>file://$PROJECT_DIR$/src/test/java/com/digitalocean/service/CommandServiceTest.java</url>
+          <line>61</line>
           <properties />
-          <option name="timeStamp" value="26" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/digitalocean/utilities/ParseUtil.java</url>
-          <line>47</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/digitalocean/service/CommandService.java</url>
+          <line>36</line>
           <properties />
-          <option name="timeStamp" value="31" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digitalocean/server/WorkerRunnable.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/digitalocean/server/MultiThreadedServerTest.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/digitalocean/server/MultiThreadedServerTest.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="scanner.SIMPLE_GROUP_INDEX" />
-        <watch expression="outputStream" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -435,219 +591,292 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>inputStr = inputStr.replace(&quot;\\n&quot;,&quot;&quot;);</expression-string>
+        <expression-string>socketHashMap.size();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>inputStr = inputStr.replace(&quot;[\\n]&quot;,&quot;&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inputStr = inputStr.replaceAll(&quot;[\\n]&quot;,&quot;&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>//inputStr = inputStr.replaceAll(&quot;\\n&quot;,&quot;&quot;);
-inputStr.contains(&quot;\\n&quot;);
-inputStr = inputStr.replace(&quot;\\n&quot;, &quot;&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>//inputStr = inputStr.replaceAll(&quot;\\n&quot;,&quot;&quot;);
-inputStr.contains(&quot;\\n&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>//inputStr = inputStr.replaceAll(&quot;\\n&quot;,&quot;&quot;);
-inputStr.contains(&quot;\n&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inputStr = inputStr.replaceAll(&quot;\\n&quot;,&quot;&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inputStr = inputStr.replaceAll(&quot;/\n&quot;,&quot;&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inputStr = inputStr.replaceAll(&quot;[ \\n]&quot;,&quot;&quot;);</expression-string>
+        <expression-string>socketHashMap.clear();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/models/Command.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/digitalocean/service/ProcessServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/com/digitalocean/util/ParserUtilTest.java" />
+    <entry file="file://$PROJECT_DIR$/index/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/util/ParseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/models/Input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1095" column="13" selection-start-line="1095" selection-start-column="13" selection-end-line="1095" selection-end-column="13" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/digitalocean/util/ParserUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#48122#48123#0" expanded="true" />
-            <element signature="e#48173#48174#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/models/Input.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/MockitoAnnotations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="1176">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/digitalocean/service/CommandServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/internal/creation/cglib/DelegatingMockitoMethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/internal/invocation/realmethod/DefaultRealMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-all-1.10.19-sources.jar!/org/mockito/internal/invocation/realmethod/CleanTraceRealMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/digitalocean/service/ProcessServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="43" />
           <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.3.2/58f3a24c0f76eda58df496649e27e242f0bc6b41/junit-platform-commons-1.3.2-sources.jar!/org/junit/platform/commons/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        <state relative-caret-position="262">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/InputStream.java">
+    <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        <state relative-caret-position="339">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/net/Socket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="851" column="25" selection-start-line="851" selection-start-column="25" selection-end-line="851" selection-end-column="25" />
-          <folding>
-            <element signature="e#33203#33204#0" expanded="true" />
-            <element signature="e#33230#33231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/models/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/net/ServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="506" column="18" selection-start-line="506" selection-start-column="18" selection-end-line="506" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/service/CommandInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/server/WorkerRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/server/MultiThreadedServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/digitalocean/server/MultiThreadedServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="52" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/digitalocean/server/WorkerRunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="33" column="36" selection-end-line="67" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/models/Status.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/models/Commands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/Main.java">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/server/MultiThreadedServer.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/service/ProcessService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="147">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/service/CommandService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/service/CommandService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/utilities/ParseUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalocean/service/ProcessService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="-259">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/digitalocean/server/WorkerRunnable.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test|PackageIndexer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.mockito:mockito-all:1.10.19</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

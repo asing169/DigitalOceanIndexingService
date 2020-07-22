@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.digitalocean.server.WorkerRunnableTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-20T22:30:32" hostname="PASWL-C030876" time="0.077">
+  <properties/>
+  <testcase name="run()" classname="com.digitalocean.server.WorkerRunnableTest" time="0.077"/>
+  <system-out><![CDATA[INDEX|cloog|
+]]></system-out>
+  <system-err><![CDATA[Jul 20, 2020 6:30:32 PM com.digitalocean.service.CommandService indexPackage
+INFO: Indexing Package
+Jul 20, 2020 6:30:32 PM com.digitalocean.service.CommandService dependenciesExist
+INFO: Checking if dependencies have already been installed.
+]]></system-err>
+</testsuite>
